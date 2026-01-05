@@ -1,0 +1,22 @@
+body {
+  background-color: #F9F8F6;
+  text-align: center;
+  color: #000;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+
+.navbar {
+  border: 1px solid #000;
+}
+
+h1, h2 {
+  color: #024a85;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #083d77;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
